@@ -1,902 +1,615 @@
-@media screen and (max-width:  1680px) {
-    .mom {
-        margin-left: 40px;
-    } 
-
-    .zal {
-        width: 1141px;
-    }
-
-    .headerseredina {
-        margin-left: 670px;
-    }
-
-    .formi {
-        margin-left: 350px;
-    }
-
-    .l {
-        margin-left: 385px;
-    }
-
-    .bog {
-        width: 1440px;
-    }
-
-    .vremya2 {
-        margin-left: 310px;
-    }
-
-    .vremya {
-        width: 1640px;
-    }
-
-    .not {
-        width: 1640px;
-    }
-
-    .tn {
-        margin-left: 200px;
-    }
-
-    .zak {
-        margin-left: 1150px;
-
-    }
-
-    .nro {
-        width: 1640px;
-    }
-    
-    .boginya {
-        width: 100px;
-        display: flex;
-        flex-direction: row;
-    }
-
-    .zeni {
-        width: 1640px;
-    }
-
-}
-
-@media screen and (max-width:  1600px) {
-    .mom {
-        margin-left: 40px;
-    } 
-
-    .zal {
-        width: 1141px;
-    }
-
-    .headerseredina {
-        margin-left: 600px;
-    }
-
-    .formi {
-        margin-left: 350px;
-    }
-
-    .l {
-        margin-left: 385px;
-    }
-
-    .bog {
-        width: 1583px;
-    }
-
-    .vremya2 {
-        margin-left: 310px;
-    }
-
-    .vremya {
-        width: 1583px;
-    }
-
-    .not {
-        width: 1583px;
-    }
-
-    .tn {
-        margin-left: 200px;
-    }
-
-    .zak {
-        margin-left: 1070px;
-
-    }
-
-    .nro {
-        width: 1583px;
-    }
-    
-    .boginya {
-        width: 100px;
-        display: flex;
-        flex-direction: row;
-    }
-
-    .zeni {
-        width: 1583px;
-    }
-
-}
-
-@media screen and (max-width:  1440px) {
-    .mom {
-        margin-left: 40px;
-    } 
-
-    .zal {
-        width: 1141px;
-    }
-
-    .headerseredina {
-        margin-left: 450px;
-    }
-
-    .formi {
-        margin-left: 250px;
-    }
-
-    .l {
-        margin-left: 285px;
-    }
-
-    .bog {
-        width: 1423px;
-    }
-
-    .vremya2 {
-        margin-left: 210px;
-    }
-
-    .vremya {
-        width: 1423px;
-    }
-
-    .not {
-        width: 1423px;
-    }
-
-    .tn {
-        margin-left: 100px;
-    }
-
-    .zak {
-        margin-left: 930px;
-
-    }
-
-    .nro {
-        width: 1423px;
-    }
-    
-    .boginya {
-        width: 100px;
-        display: flex;
-        flex-direction: row;
-    }
-
-    .zeni {
-        width: 1423px;
-    }
-
-}
-
-@media screen and (max-width:  1366px) {
-    .mom {
-        margin-left: 40px;
-    } 
-
-    .zal {
-        width: 1090px;
-    }
-
-    .headerseredina {
-        margin-left: 370px;
-    }
-
-    .formi {
-        margin-left: 250px;
-    }
-
-    .l {
-        margin-left: 285px;
-    }
-
-    .bog {
-        width: 1349px;
-    }
-
-    .vremya2 {
-        margin-left: 210px;
-    }
-
-    .vremya {
-        width: 1349px;
-    }
-
-    .not {
-        width: 1349px;
-    }
-
-    .tn {
-        margin-left: 30px;
-    }
-
-    .zak {
-        margin-left: 860px;
-
-    }
-
-    .nro {
-        width: 1349px;
-    }
-    
-    .boginya {
-        width: 100px;
-        display: flex;
-        flex-direction: row;
-    }
-
-    .zeni {
-        width: 1349px;
-    }
-
-}
-
-@media screen and (max-width:  1280px) {
-    .mom {
-        margin-left: 40px;
-    } 
-
-    .zal {
-        width: 1000px;
-    }
-
-    .headerseredina {
-        margin-left: 300px;
-    }
-
-    .formi {
-        margin-left: 155px;
-    }
-
-    .l {
-        margin-left: 200px;
-    }
-
-    .bog {
-        width: 1263px;
-    }
-
-    .vremya2 {
-        margin-left: 120px;
-    }
-
-    .vremya {
-        width: 1263px;
-    }
-
-    .not {
-        width: 1263px;
-    }
-
-    .tn {
-        margin-left: 30px;
-    }
-
-    .zak {
-        margin-left: 780px;
-
-    }
-
-    .nro {
-        width: 1263px;
-    }
-    
-    .boginya {
-        width: 100px;
-        display: flex;
-        flex-direction: row;
-    }
-
-    .zeni {
-        width: 1263px;
-    }
-
-    .tn {
-        width: 200px;
-        margin-left: 15px;
-    }
-
-    .ton {
-        width: 200px;
-    
-    }
-    
-    .tonic {    
-        width: 200px;
-    
-    }
-    
-    .toni {
-        width: 200px;
-    
-    }
-    
-    .on {
-        width: 200px;   
-    
-    }
-    
-}
-
-@media screen and (max-width:  1128px) {
-    .mom {
-        margin-left: 40px;
-    } 
-
-    .zal {
-        width: 860px;
-    }
-
-    .headerseredina {
-        margin-left: 150px;
-    }
-
-    .formi {
-        margin-left: 80px;
-    }
-
-    .l {
-        margin-left: 140px;
-    }
-
-    .bog {
-        width: 1111px;
-    }
-
-    .vremya2 {
-        margin-left: 40px;
-    }
-
-    .vremya {
-        width: 1111px;
-    }
-
-    .not {
-        width: 1111px;
-        flex-direction: column;
-        height: 500px;
-    }
-
-    .tn {
-        margin-left: 30px;
-        margin-left: 190px;
-    }
-
-    .zak {
-        margin-left: 620px;
-
-    }
-
-    .nro {
-        width: 1111px;
-    }
-    
-    .boginya {
-        width: 100px;
-        display: flex;
-        flex-direction: row;
-    }
-
-    .zeni {
-        width: 1111px;
-    }
-
-    .tn {
-        width: 200px;
-        margin-left: 190px;
-    }
-
-    .ton {
-        width: 200px;
-    
-    }
-    
-    .tonic {    
-        width: 200px;
-    
-    }
-    
-    .toni {
-        width: 200px;
-        margin-left: 300px;
-        margin-top: 20px;
-    
-    }
-    
-    .on {
-        width: 200px; 
-        margin-top: 20px;  
-    
-    }
-    
-}
-
-@media screen and (max-width:  1024px) {
-    .mom {
-        margin-left: 40px;
-    } 
-
-    .zal {
-        width: 755px;
-    }
-
-    .headerseredina {
-        margin-left: 40px;
-    }
-
-    .formi {
-        margin-left: 30px;
-    }
-
-    .l {
-        margin-left: 70px;
-    }
-
-    .bog {
-        width: 1007px;
-    }
-
-    .vremya2 {
-        margin-left: 10px;
-    }
-
-    .vremya3 {
-        margin-left: 30px;
-    }
-
-    .vremya4 {
-        margin-left: 30px;
-    }
-
-    .vremya5 {
-        margin-left: 30px;
-    }
-
-    .vremya {
-        width: 1007px;
-    }
-
-    .not {
-        width: 1007px;
-        flex-direction: column;
-        height: 500px;
-    }
-
-    .tn {
-        margin-left: 30px;
-        margin-left: 150px;
-    }
-
-    .zak {
-        margin-left: 520px;
-
-    }
-
-    .nro {
-        width: 1007px;
-    }
-    
-    .boginya {
-        width: 100px;
-        display: flex;
-        flex-direction: row;
-    }
-
-    .zeni {
-        width: 1007px;
-    }
-
-    .tn {
-        width: 200px;
-        margin-left: 190px;
-    }
-
-    .ton {
-        width: 200px;
-    
-    }
-    
-    .tonic {    
-        width: 200px;
-    
-    }
-    
-    .toni {
-        width: 200px;
-        margin-left: 260px;
-        margin-top: 20px;
-    
-    }
-    
-    .on {
-        width: 200px; 
-        margin-top: 20px;  
-    
-    }
-    
-}
-
-@media screen and (max-width:  800px) {
-    .mom {
-        margin-left: 210px;
-    } 
-
-    .zal {
-        display: none;
-    }
-
-    .headerseredina {
-        margin-left: 0px;
-    }
-
-    .comanda {
-        margin-left: 130px;
-    }
-
-    .kal {
+ .bod {
+    margin-top: 0px;
+    margin-right: 0px;
     margin-left: 0px;
-    width: 200px;
-    height: 60px;
-
-    }
-
-    .formi {
-        margin-left: 15px;
-        width: 240px;
-    }
-
-    .fo {
-        margin-left: 15px;
-        width: 240px;
-    }
-
-    .f {
-        margin-left: 15px;
-        width: 240px;
-    }
-
-    .l {
-        margin-left: 35px;
-        width: 350px;
-    }
-
-    .poylo {
-        margin-left: 10px;
-        width: 350px;
-
-    }
-
-    .po {
-        margin-left: 7px;
-        margin-top: 202px;
-    }
-
-    .o {
-        margin-left: 7px;
-    }
-
-    .flo {
-        margin-left: 7px;
-    }
-
-    .yo {
-        width: 331px;
-        margin-top: 218px;
-    }
-
-    .poyl {
-        width: 331px;
-    }
-
-    .bog {
-        width: 783px;
-    }
-
-    .vremya2 {
-        margin-left: 40px;
-    }
-
-    .vremya3 {
-        margin-left: 30px;
-    }
-
-    .vremya4 {
-        margin-left: 30px;
-    }
-
-    .vremya5 {
-        display: none;
-    }
-
-    .vremya {
-        width: 783px;
-    }
-
-    .not {
-        width: 783px;
-        flex-direction: column;
-        height: 500px;
-    }
-
-    .tn {
-        margin-left: 30px;
-        margin-left: 150px;
-    }
-
-    .zak {
-        margin-left: 300px;
-
-    }
-
-    .nro {
-        width: 783px;
-    }
-    
-    .boginya {
-        width: 100px;
-        display: flex;
-        flex-direction: row;
-    }
-
-    .zeni {
-        width: 783px;
-    }
-
-    .tn {
-        width: 200px;
-        margin-left: 30px;
-    }
-
-    .ton {
-        width: 200px;
-    
-    }
-    
-    .tonic {    
-        width: 200px;
-    
-    }
-    
-    .toni {
-        width: 200px;
-        margin-left: 150px;
-        margin-top: 20px;
-    
-    }
-    
-    .on {
-        width: 200px; 
-        margin-top: 20px;  
-    
-    }
-
-    .kglh {
-        width: 400px;
-    }
-    
+    margin-bottom: 0px;
+    background-color: rgb(255, 255, 255);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media screen and (max-width:  370px){
-    
-    .headercenter{
-        margin-left: 0px;
-        flex-direction: column;
-    }
-
-    .kal {
-        margin-left: 49px;
-    }
-
-    .comanda {
-        margin-left: 17px;
-        margin-right: 30px;
-        margin-top: 10px;
-    }
-
-    .proecti {
-        margin-left: 0px;
-        margin-right: 30px;
-        margin-top: 10px;
-    }
-
-    .otzivi {
-        margin-left: 0px;
-        margin-top: 10px;
-    }
-
-    .mom{
-        margin-left: 50px;
-        width: 300px;
-        margin-top: 0px;
-    } 
-
-    .bog{
-        flex-direction: column;
-        width: 70px;
-    }
-
-    .formi {
-        margin-left: 50px;
-    }
-
-    .l {
-        margin-left: 50px;
-        width: 284px;
-    
-    }
-
-    .yo {
-        width: 226px;
-        margin-left: 27px;
-    }
-
-    .poyl {
-        margin-top: 130px;
-        width: 242px;
-        margin-left: 27px;
-    }
-
-    .poylo {
-        width: 284px;
-    }
-
-    .vremya {
-        margin-top: 1350px;
-    }
-
-    .dopi{
-        width: 370;
-    }
-
-    .uslo{
-        width: 370px;
-    }
-
-    .cen {
-        width: 370px;
-    }
-
-    .vremya {
-        flex-direction: column;
-        height: 1350px;
-        width: 370px;
-    }
-
-    .vremya2 {
-        margin-left: 80px;
-    }
-
-    .vremya3 {
-        margin-left: 70px;
-    }
-    
-    .vremya4 {
-        margin-left: 80px;
-    }
-    .vremya5 {
-        margin-left: 60px;
-    }
-
-    .zal {
-        display: none;
-    }
-
-    .not {
-        flex-direction: column;
-        height: 1200px;
-        width: 370px;
-    }
-
-    .tn {
-        margin-left: 80px;
-    }
-
-    .ton{
-        margin-top: 30px;
-        margin-left: 80px;
-    }
-
-    .tonic {
-        margin-top: 30px;
-        margin-left: 80px;
-    }
-
-    .toni {
-        margin-top: 30px;
-        margin-left: 80px;
-    }
-
-    .on {
-        margin-top: 30px;
-        margin-left: 80px;
-    }
-
-    .nitron {
-        margin-left: 0px;
-    }
-
-    .nro {
-        width: 370px;
-        height: 500px;
-        flex-direction: column;
-    }
-
-    .nitrom {
-        margin-left: 0px;
-    }
-
-    .headerseredina {
-        width: 370px;
-    }
-
-    .zakazatsayt {
-        margin-left: 134px;
-    }
-
-    .zeni {
-        width: 370px;
-    }
-
-    .razrab {
-        margin-top: 100px;
-    }
-
-    .razrabi {
-        margin-top: 100px;
-    }
-
-    .alas {
-        margin-top: 100px;
-    } 
-
-    .joj {
-        margin-top: 100px;
-    }
-
-    
+.bd {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(0, 0, 0);
+}
+
+.header {
+    background-color: black;
+}
+
+.headercenter {
+    height: 80px;
+    display: flex;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.zakazatsayt {
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+    margin-top: 27px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    width: 116px;
+    height: 26px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+
+}
+
+.headerseredina {
+    display: flex;
+    margin-left: 994px;
+}
+
+.comanda {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    width: 105px;
+    margin-top: 31px;
+    margin-left: 200px;
+    height: 10px;
+}
+
+.proecti {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    width: 110px;
+    margin-top: 31px;
+    margin-left: 20px;
+    height: 10px;
+}
+
+.otzivi{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    width: 50px;
+    margin-top: 31px;
+    margin-left: 20px;
+    height: 10px;
+}
+
+.zapisrabota {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    width: 80px;
+    margin-top: 21px;
+    margin-left: 30px;
+    height: 34px;
+}
+
+.comanda:hover {
+    color: #0a7500;
+    font-size: 17px;
+}
+
+.otzivi:hover {
+    color: #0a7500;
+    font-size: 17px;
+}
+
+.proecti:hover {
+    color: #0a7500;
+    font-size: 17px;
+}
+
+.niz{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+
+.zal{
+    width: 1226px;
+    margin-left: 0px;
+
+}
+
+.posle {
+    margin-top: 0px;
+
+}
+
+.mom {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin-left: 145px;
+}
+
+.kol {
+    color: rgb(255, 255, 255);
+    margin-left: 40px;
+
+}
+
+.zakazatsaytsered {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 146px;
+    height: 28px;
+    margin-left: 250px;
+}
+
+.zeni {
+    background-color: rgb(255, 255, 255);
+    height: 1050px;
+    width: 1903px;
+}
+
+.formi {
+    margin-left: 475px;
+    width: 280px;
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+    height: 400px;
+    margin-top: 41px;
+    background-image: url(images/pasted_image_0.png);
+}
+
+.kal {
+    height: 80px;
+    margin-left: 40px;
+}
+
+.fo {
+    margin-left: 50px;
+    width: 280px;
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+    height: 400px;
+    margin-top: 41px;
+    background-image: url(images/card2.png);
+}
+
+.f{
+    width: 280px;
+    margin-left: 50px;
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+    height: 400px;
+    margin-top: 41px;
+    background-image: url(images/card1.png);
+}
+
+.po {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 220px;
+    width: 226px;
+    height: 33px;
+    margin-left: 27px;
+
+
+}
+
+.o {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 226px;
+    height: 33px;
+    margin-left: 27px;
+    font-size: 13px;
+    margin-top: 220px;
+
+}
+
+.flo {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 226px;
+    height: 33px;
+    margin-left: 27px;
+    font-size: 13px;
+    margin-top: 183px;
+
+}
+
+.bog {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.l {
+    width: 400px;
+    margin-left: 520px;
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+    height: 400px;
+    margin-top: 41px;
+    background-image: url(images/15d80bf281f0486763940e92e4c9e534.jpg);
+}
+
+.yo {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 376px;
+    height: 35px;
+    font-size: 13px;
+    margin-left: 11px;
+    margin-top: 230px;
+}
+
+.poylo {
+    width: 400px;
+    margin-left: 50px;
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+    height: 400px;
+    margin-top: 41px;
+    background-image: url(images/dop.png);
+}
+
+.poyl {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 376px;
+    height: 35px;
+    font-size: 13px;
+    margin-left: 11px;
+    margin-top: 174px;
+}
+
+.vremya {
+    background-color: rgb(0, 0, 0);
+    height: 363px;
+    width: 1903px;
+    display: flex;
+    flex-direction: row;
+}
+
+.vremya2 {
+    width: 200px;
+    height: 200px;
+    margin-top: 63px;
+    margin-left: 440px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-style: solid;
+
+}
+
+.raz {
+    margin-right: 5px;
+
+}
+
+.rab {
+    width: 40px;
+    margin-left: 5px;
+}
+
+.vremya3 {
+    width: 210px;
+    height: 200px;
+    margin-top: 63px;
+    margin-left: 40px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-style: solid;
+
+}
+
+.vremya4 {
+    width: 200px;
+    height: 200px;
+    margin-top: 63px;
+    margin-left: 40px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-style: solid;
+
+}
+
+.vremya5 {
+    width: 270px;
+    height: 200px;
+    margin-top: 63px;
+    margin-left: 40px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-style: solid;
+
+}
+
+.not {
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 1903px;
+    background-color: rgb(255, 255, 255);
+   
+}
+
+.ton {
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: solid;
+    width: 210px;
+    height: 200px;
+    background-image: url(images/1b52f7a102851337f2502b6d24accdfa.png);
+    margin-left: 50px;
+
+}
+
+.tonic {    
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: solid;
+    width: 210px;
+    height: 200px;
+    background-image: url(images/html5.png);
+    margin-left: 50px;
+
+}
+
+.toni {
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: solid;
+    width: 210px;
+    height: 200px;
+    background-image: url(images/bc562e13d1c90cf468da42d1bd168fab.jpg);
+    margin-left: 50px;
+
+}
+
+.on {
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: solid;
+    width: 210px;
+    height: 200px;
+    background-image: url(images/medium_65711d03931c5a42e90e6a0a40b95eaa.jpg);
+    margin-left: 50px;
+
+}
+
+.tn {
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: solid;
+    width: 210px;
+    height: 200px;
+    background-image: url(images/Variabel-Dalam-pemrograman-Javascript.jpg);
+    margin-left: 300px;
+
+}
+
+.nro {
+    background-color: rgb(0, 0, 0);
+    height: 110px;
+    width: 1903px;
+    display: flex;
+    flex-direction: row;
+}
+
+.zak {
+    color: rgb(0, 0, 0);
+    margin-left: 1550px;
+    margin-top: 27px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    width: 116px;
+    height: 26px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+}
+
+.nitrom {
+    margin-left: 1270px;
+    margin-left: 1270px;
+    margin-right: 40px;
+
+}
+
+.vibor {
+    display: flex;
+    flex-direction: column;
+}
+
+.vibori {
+    width: 246px;
+    height: 31px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+.viborin {
+    width: 246px;
+    height: 31px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.vibo {
+    width: 246px;
+    height: 31px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.vib {
+    width: 246px;
+    height: 31px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.vb {
+    width: 246px;
+    height: 31px;
+    border-radius: 10px;
+}
+
+.bodali {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+.pif {
+    display: flex;
+    flex-direction: column;
+    width: 305px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.imya {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    color: rgb(255, 255, 255);
+}
+
+.n {
+    margin-bottom: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-radius: 10px;
+
+
+}
+
+.e{
+    margin-bottom: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-radius: 10px;
+
+}
+
+.p{
+    margin-bottom: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-radius: 10px;
+
+}
+
+.oooo {
+    padding-left: 8px;
+    padding-top: 0px;
+    padding-right: 8px;
+    padding-bottom: 0px;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    height: 27px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 15px;
+    margin-bottom: 0px;
+    color: #000000;
+    margin-left: 55px;
+
+}
+
+.razrab {
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-style: solid;
+    width: 315px;
+    height: 230px;
+}
+
+.razrabi {
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-style: solid;
+    width: 315px;
+    height: 250px;
+}
+
+.shkola {
+    background-color: black;
+    height: 1000px;
+    width: 1903px;
+}
+
+.ribo {
+    width: 800px;
+}
+
+.youir {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 376px;
+    height: 35px;
+    font-size: 13px;
+    margin-left: 11px;
+    margin-top: 10px;
+}
+
+.jigf {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.uslo {
+    margin-left: auto;
+}
+
+.folk {
+    display: flex;
+    flex-direction: row;
 }
